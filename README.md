@@ -1,0 +1,3 @@
+# Stalker
+
+Collects information about users to provide better UX to them...
